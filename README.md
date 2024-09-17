@@ -1,5 +1,4 @@
-###_ playlistSpotifyMusicStyle
-# Playlist com estilo de musicas do Spotify
+# Playlist com estilo de músicas do Spotify
 
 Este projeto trata-se da criação de um modelo preditivo para classificar músicas lentas e agitadas, utilizando a base de dados [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) do Kaggle.
 
